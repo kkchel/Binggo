@@ -1,0 +1,56 @@
+C:\Users\user\Desktop\C#\과제\1to50Game_Server\1to50Game_Server\bin\Debug\1to50Game_Server.exe
+C:\Users\user\Desktop\C#\과제\1to50Game_Server\1to50Game_Server\bin\Debug\1to50Game_Server.pdb
+C:\Users\user\Desktop\C#\과제\1to50Game_Server\1to50Game_Server\obj\x86\Debug\_1to50Game_Server.Form1.resources
+C:\Users\user\Desktop\C#\과제\1to50Game_Server\1to50Game_Server\obj\x86\Debug\_1to50Game_Server.Properties.Resources.resources
+C:\Users\user\Desktop\C#\과제\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\C#\과제\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.exe
+C:\Users\user\Desktop\C#\과제\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.pdb
+C:\Users\user\Desktop\C#\과제\1 to 50 game\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.exe
+C:\Users\user\Desktop\C#\과제\1 to 50 game\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.pdb
+C:\Users\user\Desktop\C#\과제\1 to 50 game\1to50Game_Server\1to50Game_Server\bin\Debug\1to50Game_Server.exe
+C:\Users\user\Desktop\C#\과제\1 to 50 game\1to50Game_Server\1to50Game_Server\bin\Debug\1to50Game_Server.pdb
+C:\Users\user\Desktop\C#\과제\1 to 50 game\1to50Game_Server\1to50Game_Server\obj\x86\Debug\_1to50Game_Server.Form1.resources
+C:\Users\user\Desktop\C#\과제\1 to 50 game\1to50Game_Server\1to50Game_Server\obj\x86\Debug\_1to50Game_Server.Properties.Resources.resources
+C:\Users\user\Desktop\C#\과제\1 to 50 game\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.csproj.GenerateResource.Cache
+C:\Users\kim\Documents\카카오톡 받은 파일\1 to 50 game\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.exe
+C:\Users\kim\Documents\카카오톡 받은 파일\1 to 50 game\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.pdb
+C:\Users\kim\Documents\카카오톡 받은 파일\1 to 50 game\1to50Game_Server\1to50Game_Server\bin\Debug\1to50Game_Server.exe
+C:\Users\kim\Documents\카카오톡 받은 파일\1 to 50 game\1to50Game_Server\1to50Game_Server\bin\Debug\1to50Game_Server.pdb
+C:\Users\kim\Documents\카카오톡 받은 파일\1 to 50 game\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.csprojResolveAssemblyReference.cache
+C:\Users\kim\Documents\카카오톡 받은 파일\1 to 50 game\1to50Game_Server\1to50Game_Server\obj\x86\Debug\_1to50Game_Server.Form1.resources
+C:\Users\kim\Documents\카카오톡 받은 파일\1 to 50 game\1to50Game_Server\1to50Game_Server\obj\x86\Debug\_1to50Game_Server.Properties.Resources.resources
+C:\Users\kim\Documents\카카오톡 받은 파일\1 to 50 game\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\새 폴더\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.exe
+C:\Users\user\Desktop\새 폴더\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.pdb
+C:\Users\user\Desktop\새 폴더\1to50Game_Server\1to50Game_Server\bin\Debug\1to50Game_Server.exe
+C:\Users\user\Desktop\새 폴더\1to50Game_Server\1to50Game_Server\bin\Debug\1to50Game_Server.pdb
+C:\Users\user\Desktop\새 폴더\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\새 폴더\1to50Game_Server\1to50Game_Server\obj\x86\Debug\_1to50Game_Server.Form1.resources
+C:\Users\user\Desktop\새 폴더\1to50Game_Server\1to50Game_Server\obj\x86\Debug\_1to50Game_Server.Properties.Resources.resources
+C:\Users\user\Desktop\새 폴더\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.csproj.GenerateResource.Cache
+C:\Users\kim\Documents\카카오톡 받은 파일\새 폴더 (2)\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.exe
+C:\Users\kim\Documents\카카오톡 받은 파일\새 폴더 (2)\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.pdb
+C:\Users\kim\Documents\카카오톡 받은 파일\새 폴더 (2)\1to50Game_Server\1to50Game_Server\bin\Debug\1to50Game_Server.exe
+C:\Users\kim\Documents\카카오톡 받은 파일\새 폴더 (2)\1to50Game_Server\1to50Game_Server\bin\Debug\1to50Game_Server.pdb
+C:\Users\kim\Documents\카카오톡 받은 파일\새 폴더 (2)\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.csprojResolveAssemblyReference.cache
+C:\Users\kim\Documents\카카오톡 받은 파일\새 폴더 (2)\1to50Game_Server\1to50Game_Server\obj\x86\Debug\_1to50Game_Server.Form1.resources
+C:\Users\kim\Documents\카카오톡 받은 파일\새 폴더 (2)\1to50Game_Server\1to50Game_Server\obj\x86\Debug\_1to50Game_Server.Properties.Resources.resources
+C:\Users\kim\Documents\카카오톡 받은 파일\새 폴더 (2)\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\새 폴더\1to50Game_Server\1to50Game_Server\bin\Debug\MySql.Data.dll
+C:\Users\kichel\Documents\카카오톡 받은 파일\새 폴더 (1)\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.exe
+C:\Users\kichel\Documents\카카오톡 받은 파일\새 폴더 (1)\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.pdb
+C:\Users\kichel\Documents\카카오톡 받은 파일\새 폴더 (1)\1to50Game_Server\1to50Game_Server\bin\Debug\1to50Game_Server.exe
+C:\Users\kichel\Documents\카카오톡 받은 파일\새 폴더 (1)\1to50Game_Server\1to50Game_Server\bin\Debug\1to50Game_Server.pdb
+C:\Users\kichel\Documents\카카오톡 받은 파일\새 폴더 (1)\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.csprojResolveAssemblyReference.cache
+C:\Users\kichel\Documents\카카오톡 받은 파일\새 폴더 (1)\1to50Game_Server\1to50Game_Server\obj\x86\Debug\_1to50Game_Server.Form1.resources
+C:\Users\kichel\Documents\카카오톡 받은 파일\새 폴더 (1)\1to50Game_Server\1to50Game_Server\obj\x86\Debug\_1to50Game_Server.Properties.Resources.resources
+C:\Users\kichel\Documents\카카오톡 받은 파일\새 폴더 (1)\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\c# 기말고사\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.exe
+C:\Users\user\Desktop\c# 기말고사\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.pdb
+C:\Users\user\Desktop\c# 기말고사\1to50Game_Server\1to50Game_Server\bin\Debug\1to50Game_Server.exe
+C:\Users\user\Desktop\c# 기말고사\1to50Game_Server\1to50Game_Server\bin\Debug\1to50Game_Server.pdb
+C:\Users\user\Desktop\c# 기말고사\1to50Game_Server\1to50Game_Server\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\c# 기말고사\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\c# 기말고사\1to50Game_Server\1to50Game_Server\obj\x86\Debug\_1to50Game_Server.Form1.resources
+C:\Users\user\Desktop\c# 기말고사\1to50Game_Server\1to50Game_Server\obj\x86\Debug\_1to50Game_Server.Properties.Resources.resources
+C:\Users\user\Desktop\c# 기말고사\1to50Game_Server\1to50Game_Server\obj\x86\Debug\1to50Game_Server.csproj.GenerateResource.Cache
